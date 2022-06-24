@@ -10,10 +10,6 @@ footer_text: ""
 profile-picture: assets/profile.png
 
 permalink: /:year-:month-:day-:title/
-sass:
-    style: compressed
-    sass_dir: sass
-
 navbar:
  - name: "About"
    link: "about"
