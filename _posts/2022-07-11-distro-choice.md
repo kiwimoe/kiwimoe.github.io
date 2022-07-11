@@ -52,6 +52,6 @@ Below is the list, that I've made in mind of uses and comfortability.
 
 
 ## Which GNU/Linux distro would you pick up, or what distro do you use from these?
-I use Devuan with XFCE DE. However, I also use LXDE sometimes during my hardware issues. Current PC (Intel Pentium, 2-cores with 4 GiB of ram) make sense to use XFCE and LXDE, somehow. Before I used Void Linux, however, I recenly discovered a bug with lightdm-gtk3-greeter that the DE goes black after login after staying idle state (which lock your systen if there's no human activity), which makes me to downstep on Devuan.
+I use Devuan with XFCE DE. However, I also use LXDE sometimes during my hardware issues. Current PC (Intel Pentium, 2-cores with 4 GiB of ram) make sense to use XFCE and LXDE, somehow. Before I used Void Linux, however, I recenly discovered a bug with lightdm-gtk3-greeter that the DE goes black after login and staying idle state for a while (which lock your systen if there's no human activity and that's where the bug come out, for that I always need to restart either change TTY which is a pain), after this, it made me to move on Devuan for stability reason.
 
 It's not up to me to give to decision what GNU/Linux you should use, I can only advice some distros which I think are the better out there. 
