@@ -31,7 +31,7 @@ These certain rules are extremly good towards open source. As because it not onl
 ## What now, there's about thousands of GNU/Linux distros.
 When talking about picking up a distro, lots of people even I alos suffer to choose one of them and stick. However, I was able to make a list about it, after some distro hopping.
 
-There's main two points, you must know before furthur hack.
+There's main three points, you must know before furthur hack.
 (i) Simple, lightweight, customizable.
 (ii) Eye-candy UI, "quite" lightweight, customizable.
 (iii) Easy to use, eye-candy, not lightweight in general, customizable.
