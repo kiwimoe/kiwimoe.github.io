@@ -1,12 +1,8 @@
-title: Ruzies' Feed
-author: Ruzie
+title: Kiwimoes' Feed
+author: kiwimoe
 subtitle: Everything you may ever ask yourself/someone else
 
 url: "https://github.com/Ruzie"
-
-footer_only_homepage: true
-footer_url: "https://github.com/rahul-bothra"
-footer_text: ""
 profile-picture: assets/profile.png
 
 permalink: /:year-:month-:day-:title/
@@ -14,4 +10,4 @@ navbar:
  - name: "About"
    link: "about"
  - name: "GitHub"
-   absolute-link: "https://github.com/Ruzie"
+   absolute-link: "https://github.com/kiwimoe"
