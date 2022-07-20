@@ -5,18 +5,18 @@ subtitle: Choose a distro
 tags: [question]
 ---
 
-## What is "distro"?
-Distro full form distribution. Here, distro refers GNU/Linux variety and flavours. Put your fun in real computing world, wander new features or even more better, with GNU/Linux.
+## What called "distro"?
+Distro full form is distribution. Here, distro refers GNU/Linux variety and flavours. Put your fun back in real computing world, wander new features or even more better.
 
-## Why GNU/Linux and distro is important?
-As today, most of computers have always preinstalled Windows Operating System. However, Windows isn't a great learning platform even if you're a low-level developer or not. Windows is closed-source software, means you can't see it's source code. Trying to reverse engineering the source code, may result Microsoft can sue you for legal reasons. In fact, you don't own your own the copy of Windows operating system, if you ever read EULA (End User License Agreement), Microsoft clearly says,
+## Why Windows fall apart?
+As today, most of computers comes with preinstalled Windows Operating System. However, Windows isn't a great OS or environment as a learning platform. Windows itself is closed-source software, means you can't see the source code nor even know what's going on inside. Trying to reverse engineering the source code, may result Microsoft can sue you for legal reasons. In fact, you don't own your copy of Windows operating system, if you ever read the EULA (End User License Agreement), Microsoft clearly says,
 > The software is licensed, not sold. Under this agreement, we grant you the right to install and run one instance of the software on your device (the licensed device), for use by one person at a time.
-Even you buy a Windows copy today, the same EULA will be applied, "The software is licensed, not sold", what means that you paid for Windows to get a copy of this piece of software, however it's still owned by Microsoft and they completely reject the proof that your paid for this.
+Buying a Windows copy today, the same EULA will be applied, "The software is licensed, not sold", means that you paid for Windows to get a copy of this piece of software, however, it's still not yours. legally owned by Microsoft and they completely reject the proof that your paid for this.
 
-EULA license doesn't make any sense, in general it more like they'll take all of your money, but still it's not your money. In my opinion fasten user by these ways, isn't the right way to do business, they just want to sell their product no matter what. Not owning a single piece of software makes similar, "You don't use Windows, Windows uses you.".
+For particular reasons, EULA license doesn't make any sense, in general it more like they'll take all of your money, but you can't protest about it. In my opinion this isn't the right way to do a business, especially for this big tech giants, they just want to sell their product no matter what. Not owning a single piece of software makes similar, "You don't use Windows, Windows uses you.".
 
 ## What GNU/Linux licenses does about it?
-GNU/Linux doesn't apply any kind of EULA license (EULA basically intended for closed source softwares). Instead it uses, free licenses, aka Open-source license(s). The most common and popular Open-source license is GNU Public License or GPL. Most of GNU/Linux distros even Linux kernel uses GPL (v2.0) license, applying this license means, you're free to use this piece of software with some criterias.
+GNU/Linux doesn't apply or have any kind of EULA license (EULA basically intended for closed source softwares) or based any kind of proprietary license. Instead it uses, free licenses, aka Open-source license(s). The most common and popular Open-source license is GNU Public License or GPL. Most of GNU/Linux distros even Linux kernel uses GPL (v2.0) license, applying this license means, you're free to use this piece of software with some criterias.
 
 In a nutshell GPL says...
 - The freedom to run the software for any purpose.
@@ -52,6 +52,6 @@ Below is the list, that I've made in mind of uses and comfortability.
 
 
 ## Which GNU/Linux distro would you pick up, or what distro do you use from these?
-I use Devuan with XFCE DE. However, I also use LXDE sometimes during my hardware issues. Current PC (Intel Pentium, 2-cores with 4 GiB of ram) make sense to use XFCE and LXDE, somehow. Before I used Void Linux, however, I recenly discovered a bug with lightdm-gtk3-greeter that the DE goes black after login and staying idle state for a while (which lock your systen if there's no human activity and that's where the bug come out, for that I always need to restart either change TTY which is a pain), after this, it made me to move on Devuan for stability reason.
+I use Devuan with XFCE DE. However, I also use LXDE sometimes during my hardware issues. Before I used Void Linux, however, I recenly discovered a bug with lightdm-gtk3-greeter that the DE goes black after re-login in idle state and that's where the bug came out, for that I always need to restart either change TTY which was a pain, after this, it made me to move on Devuan for stability reason.
 
-It's not up to me to give to decision what GNU/Linux you should use, I can only advice some distros which I think are the better out there. 
+It's not up to me to give a reason about what GNU/Linux you should use, I can only advice some distros which I think somewhat better in packages and usage. 
