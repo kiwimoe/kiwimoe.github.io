@@ -2,6 +2,7 @@ title: Kiwimoes' Feed
 author: kiwimoe
 subtitle: Everything you may ever ask yourself/someone else
 
+url: "https://kiwimoe.github.io"
 profile-picture: assets/profile.png
 
 permalink: /:year-:month-:day-:title/
