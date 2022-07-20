@@ -8,6 +8,6 @@ profile-picture: assets/profile.png
 permalink: /:year-:month-:day-:title/
 navbar:
  - name: "About"
-   link: "about"
+   link: "https://github.com/kiwimoe/kiwimoe.github.io/blob/main/about.md"
  - name: "GitHub"
    absolute-link: "https://github.com/kiwimoe"
