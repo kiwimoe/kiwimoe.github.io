@@ -2,12 +2,11 @@ title: Kiwimoes' Feed
 author: kiwimoe
 subtitle: Everything you may ever ask yourself/someone else
 
-url: "https://github.com/kiwimoe"
 profile-picture: assets/profile.png
 
 permalink: /:year-:month-:day-:title/
 navbar:
  - name: "About"
-   link: "kiwimoe.github.io/blob/main/about"
+   link: "about"
  - name: "GitHub"
    absolute-link: "https://github.com/kiwimoe"
