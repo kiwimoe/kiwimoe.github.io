@@ -5,7 +5,7 @@ title: About Me
 
 ## Who I am?
 
-I'm kiwimoe, interested in coding, music, gaming and much more. I like old hardware way too much...\
+I'm kiwimoe, interested in coding, music, old retro gaming and much more. I like old hardware way too much...\
 Hidden secrets, various topics, you may find here.
 
 ## Other info
